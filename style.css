@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-    padding: 10px 10%;
+    padding: 15px 10%;
 }
 
 nav {
@@ -290,4 +290,5 @@ nav .fa-solid {
         left: 25px;
         cursor: pointer;
     }
+
 }
