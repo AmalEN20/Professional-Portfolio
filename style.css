@@ -113,7 +113,7 @@ nav ul li a:hover::after {
 
 .tab-titles {
     display: flex;
-    margin: 20px 0 40;
+    margin: 20px 0 40px;
 }
 
 .tab-links {
@@ -291,4 +291,4 @@ nav .fa-solid {
         cursor: pointer;
     }
 
-}
+} */
